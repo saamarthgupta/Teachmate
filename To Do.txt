@@ -1,0 +1,2 @@
+1. change background for the course page and the contact us page.
+2. Change the contact page.
