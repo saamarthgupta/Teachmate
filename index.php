@@ -19,7 +19,7 @@
 
 <body>
     
-    <a href = "reg.php"><img src = "data/contact.png" width = 100 height = 100 align=right alt="Contact Us" title="Contact Us" >
+    <a href = "contact.php"><img src = "data/contact.png" width = 100 height = 100 align=right alt="Contact Us" title="Contact Us" >
     </a>
     <h1 id='brand' style="text-align:left;"><img src = "data/logo.png" width = "160" height = "110" align=center >
     <font face = "Comic Sans MS" color="#FFFFFF" > Teachmate</font></h1>

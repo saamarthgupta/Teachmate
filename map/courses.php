@@ -1,14 +1,14 @@
 <?php
     $course_map = ['camont' => 'Montessori', 'class14' => 'Classes 1-4',
-    				'class58' => 'Classes 5-8', 'class910' => 'Classes 9-10', 'classx112' => 'Classes 11-12' ];
+    				'class58' => 'Classes 5-8', 'class910' => 'Classes 9-10', 'classx112' => 'Classes 11-12', 'iit' => 'IIT-JEE', 'sat' => 'SAT' ];
     $lec_map = [
 
         'camont' => [
                 1 => 'Learn Colours',
                 2 => 'Learn Colours - 2',
                 3 => 'Butterfly Colours Song',
-                4 => 'Alphabets in Strings',
-                5 => 'At the Zoo',
+                4 => 'At the Zoo',
+                5 => 'Colours Song',
                 6 => 'The ABC Song',
                 7 => 'Salt Shapes',
                 8 => 'Phonetics',
@@ -18,8 +18,7 @@
                 12 => 'The Alphabet (We are the Alphabet)',
                 13 => 'Small Words',
                 14 => 'Funny Alphabet',
-                15 => 'Colours Song'
-                
+                            
         ],
         'class14' => [
                 1 => 'Basic Addition',
@@ -70,7 +69,14 @@
                 8 => 'Humanistic Theory',
                 9 => 'Electrostatics - Introduction to Charge',
 
+        ],
+        'iit' => [
+
+        ],
+        'sat' => [
+        
         ]
+
     ];
 
 ?>

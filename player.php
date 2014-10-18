@@ -89,7 +89,7 @@
 
     </div>
     <br>
-<p align="center"><font size=2 color="#FFFFFF">Video Courtesy (c) Khan Academy</font></p>
+<p align="center" style="font-family:'Lucida Sans'"><font size=2 color="#FFFFFF">Video Courtesy (c) Khan Academy</font></p>
 </body>
 
 </html>
